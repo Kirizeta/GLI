@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838934685852",
+    "project_id": "gliproject",
+    "storage_bucket": "gliproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838934685852:android:8eb37665397ed00cd92559",
+        "android_client_info": {
+          "package_name": "com.example.gli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9O7Q6J7S0m2Vg68d9LaLNFjUZTHBnwJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
